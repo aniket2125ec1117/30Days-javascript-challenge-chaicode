@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+        .cssClass {
+            background-color: yellow;
+            color: red;
+        }
+        .border-change {
+            border: 20px solid black; 
+            padding: 20px;
+            display: inline-block;
+        }
+        /* Added this to demonstrate the use of body-change class */
+        .body-change {
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body class="body-change">
+    <div class="event">
+        <h1 id="event1">This will change</h1>
+        <button id="btn">Change</button>
+    </div>
+    <div id="elementId" class="border-change">This is the element id</div>
+    <div class="container">
+        <h1 id="ele">Hello world</h1>
+        <ul id="li">
+            <!-- List items will be added here -->
+        </ul>
+        <h2 id="removeThis">Hm remove me</h2>
+        <img id="myImage" src="oldImageSource.jpg" alt="Sample Image" />
+        <h3 id="lastChild">last child</h3>
+    </div>
+    <script src="domManipulation.js"></script>
+</body>
+</html>
+<!--Day 9 Completed Successfully-->
