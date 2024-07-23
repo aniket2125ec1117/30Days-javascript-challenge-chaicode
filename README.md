@@ -17,7 +17,7 @@ The 30Days JavaScript Challenge is designed to:
 
 ## How to Use
 
-1. **Clone the Repository**: Clone this repository to your local machine using:  https://github.com/your-username/30days-javascript-challenge.git
+1. **Clone the Repository**: Clone this repository to your local machine using:  https://github.com/aniket2125ec1117/30days-javascript-challenge.git
 
 2. **Navigate to Specific Day**: Explore each day's challenge and solution by navigating into the respective day's folder (e.g., `Day1`).
 
