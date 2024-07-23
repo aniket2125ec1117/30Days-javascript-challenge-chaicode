@@ -40,8 +40,8 @@ Here's a brief overview of what each day covers:
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aniket-kumar-545282228/)
-- GitHub: [Your GitHub Profile](https://github.com/aniket2125ec1117)
-- Instagram: [Your Instagram Profile](https://www.instagram.com/ani_ec25)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aniket-kumar-545282228/)
+- GitHub: [GitHub Profile](https://github.com/aniket2125ec1117)
+- Instagram: [Instagram Profile](https://www.instagram.com/ani_ec25)
 
 
